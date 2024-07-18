@@ -1,22 +1,22 @@
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/adder.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ramOnChip32.v
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ramOnChipData.v
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Memoria32.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Memoria32Data.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/RegPack.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/RegFile.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/alu.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ALUController.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/BranchUnit.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Controller.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/flopr.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ForwardingUnit.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/HazardDetection.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/imm_Gen.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/mux2.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/mux4.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/datamemory.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/instructionmemory.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Datapath.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/RISC_V.sv
-    D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/verif/tb_top.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/adder.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ramOnChip32.v
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ramOnChipData.v
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Memoria32.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Memoria32Data.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/RegPack.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/RegFile.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/alu.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ALUController.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/BranchUnit.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Controller.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/flopr.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/ForwardingUnit.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/HazardDetection.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/imm_Gen.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/mux2.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/mux4.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/datamemory.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/instructionmemory.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/Datapath.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/design/RISC_V.sv
+D:/Estudos/Faculdade/codes/.vscode/Projeto_IH_RISC-V-main/verif/tb_top.sv

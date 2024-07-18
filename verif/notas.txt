@@ -1,0 +1,34 @@
+SLT
+SLTI
+XOR
+SRAI
+SRLI
+SLLI
+ADDI
+OR
+OK --------- ALU_CUSTOM
+
+
+SUB
+LUI
+OK --------- /sim/ALU
+
+LB 
+LH 
+OK --------- /sim/LOAD
+
+LBU
+OK --------- /sim/LOAD - Tirar LHU
+
+JAL
+BNE
+BLT 
+BGE
+JALR
+OK --------- /sim/JAL, BEQ - melhor Fazer os de branch
+
+SB 
+SH 
+OK --------- /sim/STORE
+
+HALT
