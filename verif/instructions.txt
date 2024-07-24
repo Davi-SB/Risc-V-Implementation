@@ -1,5 +1,11 @@
-addi x7,x0,0
-sb x7,2(x0)
-lw x9,0(x0)
-sh x7,2(x0)
-lw x8,0(x0)
+addi x1,x0,1
+addi x2,x0,2
+addi x12,x0,8
+slt x3,x1,x2  
+slti x4,x1,10
+xor x5,x1,x2 
+srai x6,x12,3 
+srli x7,x12,3 
+slli x8,x1,3 
+addi x9,x1,10
+or x10,x1,x2 
