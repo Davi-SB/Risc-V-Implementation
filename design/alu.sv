@@ -17,7 +17,7 @@ module alu#(parameter DATA_WIDTH = 32, parameter OPCODE_LENGTH = 4)
             4'b0100: ALUResult = SrcA << SrcB;                   // SLL
             4'b0101: ALUResult = SrcA >> SrcB;                   // SRL
             4'b0110: ALUResult = SrcA ^ SrcB;                    // XOR
-            4'b0111: ALUResult = $signed(SrcA) >>> SrcB;         // SRA
+            4'b0111: ALUResult = $signed(SrcA) >>> SrcB[4:0];    // SRA
             4'b1000: ALUResult = (SrcA == SrcB) ? 1 : 0;         // BEQ
             4'b1001: ALUResult = (SrcA != SrcB) ? 1 : 0;         // BNE
             4'b1010: ALUResult = (SrcA < SrcB)  ? 1 : 0;         // BLT
